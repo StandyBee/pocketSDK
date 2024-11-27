@@ -1,4 +1,4 @@
-package main
+package pocket
 
 import (
 	"bytes"
